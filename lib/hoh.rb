@@ -47,7 +47,6 @@ organism = {label: "Kingdom",
      sub_category: {
        label: "Class" {
    label: "Order"
- }
      }
    }
  }
